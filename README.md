@@ -1,2 +1,2 @@
 # Simple-MNIST-classification
-Simple MNIST
+Simple MNIST classification
